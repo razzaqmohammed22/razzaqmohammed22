@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+There+%21;This+is+Mohammed)](https://git.io/typing-svg)
+
+---
 # Hi, I'm Mohammed Abdul Razzaq 👋
 
 ### A little bit about myself.. 👋😄
@@ -86,6 +89,4 @@ Developing automated workflows that connect geometry creation, CFD simulation, p
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/razzaqmohammed22)
   &nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](mailto:razzaqmohammed22@gmail.com)
-  &nbsp;
-[<img src="https://img.shields.io/badge/PyAnsys-FFB71B?style=for-the-badge&logo=python&logoColor=black" alt="PyAnsys" />](https://docs.pyansys.com/)
 ---
