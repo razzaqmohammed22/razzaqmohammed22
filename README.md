@@ -8,11 +8,13 @@
 
 ### A little bit about myself.. 👋😄
 ---
-I work at the intersection of computational fluid dynamics, engineering simulation, scientific machine learning, and AI-driven automation.
+Somewhere between the skies that first sparked my curiosity and the equations that help us understand the world, I found my way into engineering. ✈️
 
-With a background in aeronautical engineering and applied mechanics, I'm interested in building computational tools that connect engineering physics with modern machine learning.
+I'm fascinated by the quiet beauty of physics, the patterns hidden in fluid flows, and the possibility of teaching machines to understand a little more of the world around us.
 
-My focus is on developing reproducible simulation workflows, exploring physics-informed learning methods, and creating intelligent applications for engineering problems.
+These days, you'll often find me exploring simulations, experimenting with code, and wandering into the world of scientific machine learning and AI.
+
+I'm still learning, still experimenting, and still asking questions. For me, every line of code is a small experiment, every simulation a new perspective, and every unanswered question an invitation to explore a little further. 🌌
 
 ---
 
