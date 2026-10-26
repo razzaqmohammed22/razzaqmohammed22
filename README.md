@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+There+%21;This+is+Mohammed)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+There+%21;This+is+Mohammed" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
-# Hi, I'm Mohammed Abdul Razzaq 👋
 
 ### A little bit about myself.. 👋😄
-
+---
 I work at the intersection of computational fluid dynamics, engineering simulation, scientific machine learning, and AI-driven automation.
 
 With a background in aeronautical engineering and applied mechanics, I'm interested in building computational tools that connect engineering physics with modern machine learning.
