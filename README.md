@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+There+%21;This+is+Mohammed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hii+%21;This+is+Mohammed" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### A little bit about myself.. 👋😄
+### A little bit about myself 😁
 ---
 Somewhere between the skies that first sparked my curiosity and the equations that help us understand the world, I found my way into engineering. ✈️
 
