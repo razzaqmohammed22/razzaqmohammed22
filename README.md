@@ -8,13 +8,9 @@
 
 ### A little bit about myself 😁
 ---
-Somewhere between the skies that first sparked my curiosity and the equations that help us understand the world, I found my way into engineering. ✈️
+I hold a B.Tech in Aeronautical Engineering✈️ and an M.Tech in Computational Fluid Dynamics (CFD), with a strong interest in understanding the physics behind engineering problems and exploring computational methods to solve them.
 
-I'm fascinated by the quiet beauty of physics, the patterns hidden in fluid flows, and the possibility of teaching machines to understand a little more of the world around us.
-
-These days, you'll often find me exploring simulations, experimenting with code, and wandering into the world of scientific machine learning and AI.
-
-I'm still learning, still experimenting, and still asking questions. For me, every line of code is a small experiment, every simulation a new perspective, and every unanswered question an invitation to explore a little further. 🌌
+I'm still learning, still experimenting. 🌌
 
 ---
 
